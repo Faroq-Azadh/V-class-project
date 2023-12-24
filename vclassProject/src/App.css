@@ -1,0 +1,35 @@
+@font-face {
+    font-family: IRANYEKAN;
+    src: url(./assets/fonts/iranyekan.ttf);
+}
+@font-face {
+    font-family: IRANYEKAN-BOLD;
+    src: url(./assets/fonts/iranyekan-bold.ttf);
+}
+@font-face {
+    font-family: IRANYEKAN-LIGHT;
+    src: url(./assets/fonts/iranyekan-light.ttf);
+}
+@font-face {
+    font-family: IRANYEKAN-MEDIUM;
+    src: url(./assets/fonts/iranyekan-medium.ttf);
+}
+@font-face {
+    font-family: IRANYEKAN-EXTRABOLD;
+    src: url(./assets/fonts/iranyekan-extrabold.ttf);
+}
+.IRANYEKAN{
+    font-family: IRANYEKAN;
+}
+.IRANYEKAN-BOLD{
+    font-family: IRANYEKAN-BOLD;
+}
+.IRANYEKAN-LIGHT{
+    font-family: IRANYEKAN-LIGHT;
+}
+.IRANYEKAN-MEDIUM{
+    font-family: IRANYEKAN-MEDIUM;
+}
+.IRANYEKAN-EXTRABOLD{
+    font-family: IRANYEKAN-EXTRABOLD;
+}

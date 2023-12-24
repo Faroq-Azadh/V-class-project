@@ -1,0 +1,4 @@
+.bgImage{
+    background: url(../../../public/images/background.png);
+    background-size: cover;
+}
